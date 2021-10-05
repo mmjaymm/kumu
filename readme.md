@@ -18,3 +18,10 @@ Step 3: Run.
 ## Redis
 
 Note : Make sure you have an installed Redis server
+
+## Mini Project KUMU
+    - http://<local-server>/github/list
+    
+    - http://<local-server>/hamming-distance
+    
+    - http://<local-server>/github/<github-username>
