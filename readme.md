@@ -13,7 +13,7 @@ Step 3: Run.
 
 ## Migration of Database in MySQL
 
-- php artisan migrate
+    - php artisan migrate
 
 ## Redis
 
